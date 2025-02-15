@@ -1,4 +1,3 @@
-# Project-1-Motion-Cut
 import random
 import os
 
